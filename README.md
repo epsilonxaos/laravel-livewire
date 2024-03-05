@@ -4,17 +4,18 @@ This is a small project used to learn about Livewire, form management, modal and
 
 ### Installation:
 
-composer install
-
-cp .env.example .env
-php artisan key:generate
+-   composer install
+-   cp .env.example .env
+-   php artisan key:generate
 
 Configure you database in `.env`
 
-php artisan migrate
+-   php artisan migrate
 
-npm install
-npm run dev
+Install node dependencies
+
+-   npm install
+-   npm run dev
 
 ### License
 
